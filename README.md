@@ -5,15 +5,13 @@ Network for captioning .
 ```
 # Some_Sreenshots!
 
-![](https://github.com/bansal-dhruv/PyGame_vurhdGame/blob/master/Game_sample/start_page.jpeg)
+![](https://github.com/bansal-dhruv/Image_captioning/blob/master/Sample/s1.png)
 
-![](https://github.com/bansal-dhruv/PyGame_vurhdGame/blob/master/Game_sample/1.jpeg)
+![](https://github.com/bansal-dhruv/Image_captioning/blob/master/Sample/s1.png)
 
-![](https://github.com/bansal-dhruv/PyGame_vurhdGame/blob/master/Game_sample/2.jpeg)
+![](https://github.com/bansal-dhruv/Image_captioning/blob/master/Sample/s1.png)
 
-![](https://github.com/bansal-dhruv/PyGame_vurhdGame/blob/master/Game_sample/3.jpeg)
-
-![](https://github.com/bansal-dhruv/PyGame_vurhdGame/blob/master/Game_sample/game_over.jpeg)
+![](https://github.com/bansal-dhruv/Image_captioning/blob/master/Sample/s1.png)
 
 ## Further Information
 ```bash
