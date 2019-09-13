@@ -7,11 +7,11 @@ Network for captioning .
 
 ![](https://github.com/bansal-dhruv/Image_captioning/blob/master/Sample/s1.png)
 
-![](https://github.com/bansal-dhruv/Image_captioning/blob/master/Sample/s1.png)
+![](https://github.com/bansal-dhruv/Image_captioning/blob/master/Sample/s2.png)
 
-![](https://github.com/bansal-dhruv/Image_captioning/blob/master/Sample/s1.png)
+![](https://github.com/bansal-dhruv/Image_captioning/blob/master/Sample/s3.png)
 
-![](https://github.com/bansal-dhruv/Image_captioning/blob/master/Sample/s1.png)
+![](https://github.com/bansal-dhruv/Image_captioning/blob/master/Sample/s4.png)
 
 ## Further Information
 ```bash
